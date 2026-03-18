@@ -100,6 +100,12 @@ This chapter provides reference materials: a glossary of key terms, resources fo
 
 4. **"AI Agents Are Here. Leaders Need a Plan"**, Sapienship (March 2026) — Policy analysis on AI agent legal status and recommendations for governmental action.
 
+5. **"The artificial intelligence entity as a legal person"**, Taylor & Francis (2023) — Argues no principled objection exists against granting AI legal personhood; AI may have more in common with humans than corporations.
+
+6. **"Property ownership and the legal personhood of artificial intelligence"**, Taylor & Francis (2020) — Focuses on property ownership as key to AI legal personhood.
+
+7. **"Legal personhood for artificial intelligence: citizenship as the exception to the rule"**, AI & Society (2019) — Argues for AI legal personhood despite controversy.
+
 ### News & Current Events
 
 5. **"Court Finds AI Agent May Violate State Federal Law by Accessing Amazon Accounts Without Authorization"**, Cooley LLP (March 17, 2026) — Legal analysis of Amazon v. Perplexity case and implications for AI agent developers.
