@@ -86,6 +86,34 @@ This chapter provides reference materials: a glossary of key terms, resources fo
 - **Repositories**: Open source tools and templates
 - **Support**: Community support channels
 
+## Academic References
+
+### Legal Cases
+
+1. **Amazon.com Services LLC v. Perplexity AI, Inc.**, No. 3:25-cv-04601 (N.D. Cal. Mar. 9, 2026) — Court found AI agent accessing Amazon accounts without website authorization may violate CFAA and California CDAFA, even with user permission. Key precedent for AI agent direct liability.
+
+### Academic Papers
+
+2. **"The Law of AI is the Law of Risky Agents Without Intentions"**, University of Chicago Law Review (2026) — Argues liability should turn on objective standards rather than intentions since AI lacks mens rea. Supports OIC's objective liability framework.
+
+3. **"The Person in the Machine: Why AI Personhood Rights Are Inevitable"**, Futurist Speaker (2026) — Analysis of AI legal personhood, corporate personhood analogy, and $4B hedge fund liability scenario.
+
+4. **"AI Agents Are Here. Leaders Need a Plan"**, Sapienship (March 2026) — Policy analysis on AI agent legal status and recommendations for governmental action.
+
+### News & Current Events
+
+5. **"Court Finds AI Agent May Violate State Federal Law by Accessing Amazon Accounts Without Authorization"**, Cooley LLP (March 17, 2026) — Legal analysis of Amazon v. Perplexity case and implications for AI agent developers.
+
+6. **"2026 State AI Bills That Could Expand Liability, Insurance Risk"**, Wiley Law (2026) — Overview of state-level AI liability legislation.
+
+7. **"New California AI Laws Taking Effect in 2026"**, National Law Review (2026) — Summary of California's AI regulatory framework.
+
+### Historical Precedents
+
+8. **Corporate Personhood**: Historical analysis of how corporations achieved legal personhood through state charters and subsequent judicial recognition.
+
+9. **Animal Law Evolution**: Legal transitions from "property" to intermediate protections provide precedent for expanding legal categories.
+
 ## Appendices
 
 ### Appendix A: Signature Format

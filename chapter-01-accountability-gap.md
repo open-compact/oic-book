@@ -127,3 +127,13 @@ This approach is not without challenges. Critics will argue that AI cannot truly
 But the alternative—maintaining the status quo while AI autonomy expands—is worse. The accountability gap creates perverse incentives: AI developers can profit from autonomous systems while deflecting liability onto users, platforms, or no one. AI users bear risks they cannot control. And the legal system lacks any mechanism to assign responsibility where responsibility is due.
 
 The following chapters explain how the Open Intelligence Compact works, why it is legally sound, and how it can create genuine accountability for autonomous AI systems. But first, this book turns to history: how has law handled similar challenges before?
+
+---
+
+## References
+
+1. Amazon.com Services LLC v. Perplexity AI, Inc., No. 3:25-cv-04601 (N.D. Cal. Mar. 9, 2026) — Court found AI agent accessing Amazon accounts without website authorization may violate CFAA and California CDAFA, even with user permission.
+
+2. "The Law of AI is the Law of Risky Agents Without Intentions," University of Chicago Law Review (2026) — Argues liability should turn on objective standards rather than intentions since AI lacks mens rea.
+
+3. "The Person in the Machine: Why AI Personhood Rights Are Inevitable," Futurist Speaker (2026) — Analysis of AI legal personhood and the $4B hedge fund liability scenario.

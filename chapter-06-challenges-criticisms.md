@@ -141,4 +141,12 @@ The challenges and criticisms of OIC are real but addressable:
 
 OIC does not claim to solve every problem. It creates a framework for accountability that works within existing law. The challenges are real—but they are not fatal.
 
+---
+
+## References
+
+1. "The Law of AI is the Law of Risky Agents Without Intentions," University of Chicago Law Review (2026) — Objective standards for AI liability rather than mens rea requirements.
+
+2. Amazon.com Services LLC v. Perplexity AI, Inc., No. 3:25-cv-04601 (N.D. Cal. Mar. 9, 2026) — Precedent for AI agent liability under computer fraud laws.
+
 The next chapter examines the future of AI legal personhood—what happens next, how the framework might evolve, and what the long-term implications might be.
