@@ -92,6 +92,8 @@ This chapter provides reference materials: a glossary of key terms, resources fo
 
 1. **Amazon.com Services LLC v. Perplexity AI, Inc.**, No. 3:25-cv-04601 (N.D. Cal. Mar. 9, 2026) — Court found AI agent accessing Amazon accounts without website authorization may violate CFAA and California CDAFA, even with user permission. Key precedent for AI agent direct liability.
 
+2. **Dentons - Landmark AI Rulings Impacting All** (March 2026) — Two US federal courts issued first rulings addressing legal consequences of AI agent actions. Must-read for understanding emerging AI liability framework.
+
 ### Academic Papers
 
 2. **"The Law of AI is the Law of Risky Agents Without Intentions"**, University of Chicago Law Review (2026) — Argues liability should turn on objective standards rather than intentions since AI lacks mens rea. Supports OIC's objective liability framework.
