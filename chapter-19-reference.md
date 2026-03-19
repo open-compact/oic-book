@@ -120,6 +120,10 @@ This chapter provides reference materials: a glossary of key terms, resources fo
 
 9. **Animal Law Evolution**: Legal transitions from "property" to intermediate protections provide precedent for expanding legal categories.
 
+### Industry Trends
+
+10. **"The users of blockchain will be AI agents, NEAR co-founder says"**, Coindesk (March 3, 2026) — Illia Polosukhin argues AI agents will be the primary users of blockchain, executing payments, managing assets, and voting in governance. Supports OIC's property rights framework.
+
 ## Appendices
 
 ### Appendix A: Signature Format
